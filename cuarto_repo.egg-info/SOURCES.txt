@@ -1,0 +1,7 @@
+README.md
+setup.py
+cuartoRepo/__init__.py
+cuarto_repo.egg-info/PKG-INFO
+cuarto_repo.egg-info/SOURCES.txt
+cuarto_repo.egg-info/dependency_links.txt
+cuarto_repo.egg-info/top_level.txt
